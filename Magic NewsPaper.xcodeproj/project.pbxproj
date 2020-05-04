@@ -13,6 +13,7 @@
 		109BB51E245F935C00889632 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 109BB51C245F935C00889632 /* Main.storyboard */; };
 		109BB520245F935E00889632 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 109BB51F245F935E00889632 /* Assets.xcassets */; };
 		109BB523245F935E00889632 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 109BB521245F935E00889632 /* LaunchScreen.storyboard */; };
+		109BB52B245F93A900889632 /* harryPotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 109BB52A245F93A900889632 /* harryPotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		109BB51F245F935E00889632 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		109BB522245F935E00889632 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		109BB524245F935E00889632 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		109BB52A245F93A900889632 /* harryPotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harryPotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				109BB516245F935C00889632 /* AppDelegate.swift */,
+				109BB52A245F93A900889632 /* harryPotter.mp4 */,
 				109BB518245F935C00889632 /* art.scnassets */,
 				109BB51A245F935C00889632 /* ViewController.swift */,
 				109BB51C245F935C00889632 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				109BB52B245F93A900889632 /* harryPotter.mp4 in Resources */,
 				109BB519245F935C00889632 /* art.scnassets in Resources */,
 				109BB523245F935E00889632 /* LaunchScreen.storyboard in Resources */,
 				109BB520245F935E00889632 /* Assets.xcassets in Resources */,
