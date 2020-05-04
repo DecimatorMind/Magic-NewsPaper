@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1084427D2460DD34009F5BD6 /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1084427C2460DD33009F5BD6 /* image1.png */; };
+		108442802460DD89009F5BD6 /* image2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1084427F2460DD89009F5BD6 /* image2.png */; };
 		109BB517245F935C00889632 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109BB516245F935C00889632 /* AppDelegate.swift */; };
 		109BB519245F935C00889632 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 109BB518245F935C00889632 /* art.scnassets */; };
 		109BB51B245F935C00889632 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 109BB51A245F935C00889632 /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1084427C2460DD33009F5BD6 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image1.png; sourceTree = "<group>"; };
+		1084427F2460DD89009F5BD6 /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image2.png; sourceTree = "<group>"; };
 		109BB513245F935C00889632 /* Magic NewsPaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Magic NewsPaper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		109BB516245F935C00889632 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		109BB518245F935C00889632 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -39,6 +43,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1084427E2460DD4D009F5BD6 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				1084427C2460DD33009F5BD6 /* image1.png */,
+				1084427F2460DD89009F5BD6 /* image2.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		109BB50A245F935C00889632 = {
 			isa = PBXGroup;
 			children = (
@@ -63,6 +76,7 @@
 				109BB518245F935C00889632 /* art.scnassets */,
 				109BB51A245F935C00889632 /* ViewController.swift */,
 				109BB51C245F935C00889632 /* Main.storyboard */,
+				1084427E2460DD4D009F5BD6 /* images */,
 				109BB51F245F935E00889632 /* Assets.xcassets */,
 				109BB521245F935E00889632 /* LaunchScreen.storyboard */,
 				109BB524245F935E00889632 /* Info.plist */,
@@ -129,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				109BB52B245F93A900889632 /* harryPotter.mp4 in Resources */,
+				1084427D2460DD34009F5BD6 /* image1.png in Resources */,
+				108442802460DD89009F5BD6 /* image2.png in Resources */,
 				109BB519245F935C00889632 /* art.scnassets in Resources */,
 				109BB523245F935E00889632 /* LaunchScreen.storyboard in Resources */,
 				109BB520245F935E00889632 /* Assets.xcassets in Resources */,
