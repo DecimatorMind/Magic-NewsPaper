@@ -2,6 +2,14 @@
 
 An application that detects newspaper images and plays video related to it just like the harry potter movie.
 
+[![](https://img.shields.io/github/followers/DecimatorMind?style=social)](https://github.com/DecimatorMind)
+
+![](https://img.shields.io/github/repo-size/DecimatorMind/Magic-Newspaper)
+![](https://img.shields.io/github/issues/DecimatorMind/Magic-Newspaper)
+![](https://img.shields.io/github/issues-pr-closed/DecimatorMind/Magic-Newspaper?color=red)
+![](https://img.shields.io/github/contributors/DecimatorMind/Magic-Newspaper?color=yellow)
+![](https://img.shields.io/github/last-commit/DecimatorMind/Magic-Newspaper)
+
 ## ARImageDetection
 
 The application currently uses one image that has been pre-added to the application that is detected and the video related 
