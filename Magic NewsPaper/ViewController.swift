@@ -59,7 +59,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         if let imageAnchor = anchor as? ARImageAnchor {
             
-            let videoNode = SKVideoNode(fileNamed: "harryPotter.mp4")
+            let videoNode = SKVideoNode(fileNamed: "sample.mp4")
             
             videoNode.play()
             
