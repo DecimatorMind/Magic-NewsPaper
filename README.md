@@ -22,6 +22,44 @@ access to.
 
 Also the video related to that image needs to be changed in the application.
 
+## File Structure
+
+    ├── Magic\ NewsPaper
+    │   ├── AppDelegate.swift
+    │   ├── Assets.xcassets
+    │   │   ├── AppIcon.appiconset
+    │   │   │   └── Contents.json
+    │   │   ├── Contents.json
+    │   │   └── NewsPaperImages.arresourcegroup
+    │   │       ├── Contents.json
+    │   │       └── harryPotter.arreferenceimage
+    │   │           ├── Contents.json
+    │   │           └── harryPotter.png
+    │   ├── Base.lproj
+    │   │   ├── LaunchScreen.storyboard
+    │   │   └── Main.storyboard
+    │   ├── Info.plist
+    │   ├── ViewController.swift
+    │   ├── art.scnassets
+    │   ├── image1.png
+    │   ├── image2.png
+    │   └── sample.mp4
+    ├── Magic\ NewsPaper.xcodeproj
+    │   ├── project.pbxproj
+    │   ├── project.xcworkspace
+    │   │   ├── contents.xcworkspacedata
+    │   │   ├── xcshareddata
+    │   │   │   └── IDEWorkspaceChecks.plist
+    │   │   └── xcuserdata
+    │   │       └── pranjalbhardwaj.xcuserdatad
+    │   │           └── UserInterfaceState.xcuserstate
+    │   └── xcuserdata
+    │       └── pranjalbhardwaj.xcuserdatad
+    │           └── xcschemes
+    │               └── xcschememanagement.plist
+    └── README.md
+
+
 ## Where to change
 
 In order to change the image you need to go to the Assets.xcassets folder in the project and you can add as many pictures as
